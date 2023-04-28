@@ -7,7 +7,7 @@ PRs welcome.
 ### Articles and Papers
  
  * [Handling Overload, from the Google SRE Book, by Alejandro Forero Cuervo and edited by Sarah Chavis](https://sre.google/sre-book/handling-overload/)
- * [Managing Load, from the Google SRE Workbook, by Cooper Bethea, Gráinne Sheerin, Jennifer Mace, and Ruth King with Gary Luo and Gary O’Connor](https://sre.google/workbook/managing-load/)
+ * [Managing Load, from the Google SRE Workbook, by Cooper Bethea et al.](https://sre.google/workbook/managing-load/)
  * [Using load shedding to avoid overload, from the AWS Builders Library, by David Yanacek](https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/)
  * [Timeouts, Retries, Backoff, and Jitter, from  the AWS Builders Library, by Marc Brooker](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
  * [FIFO Considered Harmful, by Jos Visser](https://medium.com/swlh/fifo-considered-harmful-793b76f98374)
@@ -33,10 +33,10 @@ by Acacio Cruz, at SREcon EMEA 2016](https://www.usenix.org/conference/srecon16e
 
 ### Articles and Papers
 
- * [Doordash, method overloading the circuit](https://dl.acm.org/doi/pdf/10.1145/3542929.3563466)
- * https://dl.acm.org/doi/abs/10.1145/3447851.3458740
- * https://brooker.co.za/blog/2022/02/16/circuit-breakers.html
- * https://netflixtechblog.medium.com/performance-under-load-3e6fa9a60581
+ * [Method overloading the circuit, Christopher Meiklejohn et al.](https://dl.acm.org/doi/pdf/10.1145/3542929.3563466)
+ * [Service mesh circuit breaker: From panic button to performance management tool, by Mohammad Reza Saleh Sedghpour, Johan Tordsson](https://dl.acm.org/doi/abs/10.1145/3447851.3458740)
+ * [Will circuit breakers solve my problems?, by Marc Brooker](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
+ * [Performance Under Load: Adaptive Concurrency Limits @ Netflix, by Eran Landau, William Thurston, Tim Bozarth](https://netflixtechblog.medium.com/performance-under-load-3e6fa9a60581)
 
 
 ## Quota Management and Ratelimiting
