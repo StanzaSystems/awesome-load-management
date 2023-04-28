@@ -41,6 +41,5 @@ by Acacio Cruz, at SREcon EMEA 2016](https://www.usenix.org/conference/srecon16e
 
 ## Quota Management and Ratelimiting
 
- * https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/other_features/global_rate_limiting
- * https://eng.lyft.com/announcing-ratelimit-c2e8f3182555
+ * [Envoy Proxy Global Ratelimiting](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/other_features/global_rate_limiting)
 
