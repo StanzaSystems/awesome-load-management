@@ -2,6 +2,14 @@
 
 A repo of links to articles, papers, conference talks, and tooling related to load management in software services: loadshedding, circuitbreaking, quota management and throttling.
 PRs welcome.
+
+# Table of contents
+  - [Loadshedding](#loadshedding)
+  - [Fairness and Isolation](#fairness-and-isolation)
+  - [Circuit Breaking and Adaptive Concurrency Control](#circuit-breaking-and-adaptive-concurrency-control)
+  - [Quota Management and Ratelimiting](#quota-management-and-ratelimiting)
+
+
 ## Loadshedding
 
 ### Articles and Papers
