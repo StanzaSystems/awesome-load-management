@@ -12,7 +12,7 @@ PRs welcome.
  * [Timeouts, Retries, Backoff, and Jitter, from  the AWS Builders Library, by Marc Brooker](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
  * [FIFO Considered Harmful, by Jos Visser](https://medium.com/swlh/fifo-considered-harmful-793b76f98374)
  * [Using load shedding to survive a success disaster—CRE life lessons, from Google Cloud Blog, by Dave Rensin and Adrian Hilton](https://cloud.google.com/blog/products/gcp/using-load-shedding-to-survive-a-success-disaster-cre-life-lessons/)
- * https://cloud.google.com/blog/products/gcp/how-to-avoid-a-self-inflicted-ddos-attack-cre-life-lessons/
+ * [How to avoid a self-inflicted DDoS Attack—CRE life lessons, from Google Cloud Blog, by Dave Rensin and Adrian Hilton](https://cloud.google.com/blog/products/gcp/how-to-avoid-a-self-inflicted-ddos-attack-cre-life-lessons/)
  * https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94
  * https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/
  * https://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html
