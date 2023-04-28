@@ -26,8 +26,8 @@ by Acacio Cruz, at SREcon EMEA 2016](https://www.usenix.org/conference/srecon16e
 ## Fairness and Isolation
 
 ### Articles and Papers
- * https://www.usenix.org/system/files/atc22-elhemali.pdf
- * https://aws.amazon.com/builders-library/fairness-in-multi-tenant-systems/
+ * [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service, Mostafa Elhemali et al., Amazon Web Services](https://www.usenix.org/system/files/atc22-elhemali.pdf)
+ * [Fairness in multi-tenant systems, from the AWS Builders Library, by David Yanacek](https://aws.amazon.com/builders-library/fairness-in-multi-tenant-systems/)
 
 ## Circuit Breaking and Adaptive Concurrency Control
 
