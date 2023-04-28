@@ -19,8 +19,9 @@ PRs welcome.
 
 ### Videos
 
- * https://www.usenix.org/conference/srecon16europe/program/presentation/cruz
- * https://www.youtube.com/watch?v=CQvmSXlnyeQ
+ * [Load Shedding—Approaches, Principles, Experiences, and Impact in Service Management
+by Acacio Cruz, at SREcon EMEA 2016](https://www.usenix.org/conference/srecon16europe/program/presentation/cruz)
+ * [Envoy, Take the Wheel: Real-time Adaptive Circuit Breaking, by Tony Allen, at KubeCon + CloudNativeCon Europe 2020](https://www.youtube.com/watch?v=CQvmSXlnyeQ)
 
 ## Fairness and Isolation
 
