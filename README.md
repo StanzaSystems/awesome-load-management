@@ -19,6 +19,7 @@ PRs welcome.
 ### Articles and Papers
  
  * [Handling Overload, from the Google SRE Book, by Alejandro Forero Cuervo and edited by Sarah Chavis](https://sre.google/sre-book/handling-overload/)
+ * [Addressing Cascading Failures, by Mike Ulrich](https://sre.google/sre-book/addressing-cascading-failures/)
  * [Managing Load, from the Google SRE Workbook, by Cooper Bethea et al.](https://sre.google/workbook/managing-load/)
  * [Using load shedding to avoid overload, from the AWS Builders Library, by David Yanacek](https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/)
  * [Timeouts, Retries, Backoff, and Jitter, from  the AWS Builders Library, by Marc Brooker](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
