@@ -12,7 +12,7 @@ PRs welcome.
   - [Circuit Breaking and Adaptive Concurrency Control](#circuit-breaking-and-adaptive-concurrency-control)
     - [Articles and Papers](#articles-and-papers)
   - [Quota Management and Ratelimiting](#quota-management-and-ratelimiting)
-
+  - [Reliability and traffic management generally](#reliability-and-traffic-management)
 
 ## Loadshedding
 
@@ -29,6 +29,7 @@ PRs welcome.
  * [Keeping Netflix Reliable Using Prioritized Load Shedding, from the Netflix Tech Blog, by Manuel Correa, Arthur Gonigberg, and Daniel West](https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94)
  * [Why Disaster Happens at the Edges: An Introduction to Queue Theory, by Avishai Ish-Shalom](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
  * [Applying Back Pressure When Overloaded, by Martin Thompson](https://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html)
+ * [Why your reliability problems are really traffic problems](https://www.stanza.systems/post/why-your-reliability-problems-are-really-traffic-problems)
 
 ### Videos
 
@@ -57,3 +58,5 @@ by Acacio Cruz, at SREcon EMEA 2016](https://www.usenix.org/conference/srecon16e
 ### Tools
  * [Envoy Proxy Global Ratelimiting](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/other_features/global_rate_limiting)
  * [Sentinel flow control](https://github.com/alibaba/Sentinel)
+
+ * [Why your reliability problems are really traffic problems](https://www.stanza.systems/post/why-your-reliability-problems-are-really-traffic-problems)
